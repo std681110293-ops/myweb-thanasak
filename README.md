@@ -1,2 +1,3 @@
 # myweb-thanasak
-การสร้าง Repository เก็บ Website เพื่อใช้แสดง
+การสร้าง Repositoryเก็บหน้าแสดงผล Website การ์ตูนของนายธนศักดิ์ โชคเจริญ
+สร้างโดยใช้ Githun เพื่อออก URL
